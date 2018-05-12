@@ -1,15 +1,21 @@
 _repo: Remarks-on-the-production-of-the-precious-metals-and-on-the-demonetization-of-gold-in-several__50581
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hankey, Thomas
     gutenberg_agent_id: '45986'
     url: http://www.gutenberg.org/2009/agents/45986
+covers:
+- cover_type: archival
+  image_path: 50581-h/images/cover.jpg
 creator:
   author:
     agent_name: Faucher, Leon
     gutenberg_agent_id: '45985'
     url: http://www.gutenberg.org/2009/agents/45985
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50581#Remarks-on-the-production-of-the-precious-metals-and-on-the-demonetization-of-gold-in-several_
 gutenberg_issued: '2015-11-30'
 gutenberg_type: Text
 identifiers:
